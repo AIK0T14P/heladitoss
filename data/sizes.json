@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Promo 2kg",
+    "precio": 7000,
+    "maxSabores": 8
+  },
+  {
+    "nombre": "Pote de 1kg",
+    "precio": 3500,
+    "maxSabores": 4
+  },
+  {
+    "nombre": "Pote de 1/2kg",
+    "precio": 1750,
+    "maxSabores": 4
+  }
+]
